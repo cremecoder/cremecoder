@@ -4,8 +4,8 @@
 
 ### What I love to do 
 
-- Front end development - React, Javascript, CSS/SASS, HTML
-- Great attention to clean code, perfomance and UX 
+- Front end development - React, Javascript, CSS/SASS, HTML, Webpack
+- Great attention to clean code, perfomance 
 
 ### My goals
 
