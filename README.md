@@ -1,4 +1,4 @@
-### Hello I'm Sean, aka cremecoder
+### Hello I'm Sean
 
 - I am a self taught developer who has fallen in love with all things javascript.
 
