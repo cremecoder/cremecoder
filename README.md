@@ -1,11 +1,11 @@
 ### Hello I'm Sean
 
-- I am a self taught developer who has fallen in love with all things javascript.
+- I am a full stack javascript developer who enjoys building things for the web.
 
 ### What I love to do 
 
-- Front end development - React, Javascript, CSS/SASS, HTML, Webpack
-- Great attention to clean code, perfomance 
+- Front end - React, Javascript, CSS/SASS, HTML, Webpack
+- Back end - Node.js, Express.js, EJS, MongoDB
 
 ### My goals
 
