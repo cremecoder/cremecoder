@@ -1,9 +1,9 @@
 ### Hello I'm Sean
 
-- I am a javascript developer who enjoys building things for the web.
+- I am a javascript developer who enjoys building front end and full stack web apps.
 
 ### What I love to do 
 
-- Front end - React, Javascript, CSS/SASS, HTML, Webpack
-- Back end - Node.js, Express.js, EJS, MongoDB
+- Front end - Javascript, CSS/SASS, HTML, React
+- Back end - Node/Express, MongoDB
 
