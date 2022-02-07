@@ -4,7 +4,7 @@
 <br/>
 **FIND ME ON** [**LINKEDIN**](https://www.linkedin.com/in/sean-martin-cremecoder/) &thinsp; :speech_balloon: 
 
-Junior web developer who enjoys building front end and full stack web apps. 
+Junior level web developer who enjoys building front end and full stack web apps. 
 
 ## What I love to do 
 
