@@ -16,8 +16,12 @@ Love all things Javascript, from vanilla to NextJS. Styling of choice has to be 
 - Level up skills by building real world applications for users and clients.
 - Learn Typescript and deep dive into Javascript in all its glorious complexity. 
 
-## Want to see my client repos?
+## Want to see private repos?
 
-If you came here via linkedin or my portfolio, and would like to see private source code, please request a colaboration
+If you came here via linkedin or my portfolio, and would like to see private source code, please request a collaboration via:
+
+- LinkedIn, send me a DM
+- My portfolio, contact form
+- Or email me at sean.cremecoder@gmail.com
 
 &thinsp;
