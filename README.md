@@ -8,11 +8,11 @@ Web developer who enjoys building frontend and full stack websites and apps.
 
 ## What I love to do 
 
-Love all things Javascript, from vanilla to React and Next. Styling of choice has to be SASS, but styled comps and Tailwind are cool too.
+Love all things Javascript, from vanilla to React and Node. Styling of choice has to be SASS, but styled comps and Tailwind are cool too.
 
 ## My goals
 
-- Grow as a developer by joining a team. 
+- Grow as a full stack developer. 
 - Level up skills by building full stack applications for users and clients.
 - Learn Typescript and deep dive into Javascript in all its glorious complexity. 
 
