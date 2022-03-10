@@ -12,7 +12,7 @@ Love all things Javascript, from vanilla to React and Node. Styling of choice ha
 
 ## My goals
 
-- Grow as a full stack developer. 
+- Grow as a full stack developer and join a team. 
 - Level up skills by building full stack applications for users and clients.
 - Learn Typescript and deep dive into Javascript in all its glorious complexity. 
 
