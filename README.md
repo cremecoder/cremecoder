@@ -13,7 +13,7 @@ Love all things Javascript, from vanilla to React and Next. Styling of choice ha
 ## My goals
 
 - Grow as a developer by joining a team. 
-- Level up skills by building real world applications for users and clients.
+- Level up skills by building full stack applications for users and clients.
 - Learn Typescript and deep dive into Javascript in all its glorious complexity. 
 
 ## Want to see private repos?
